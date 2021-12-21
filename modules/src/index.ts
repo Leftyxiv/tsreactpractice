@@ -1,4 +1,4 @@
-const multiply = (a: number, b: number) => a * b;
+import { multiply, multiplyByTwo } from "./multiply";
 
 const a = 2;
 const b = 2;
